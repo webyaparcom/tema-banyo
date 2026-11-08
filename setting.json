@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Banyo ve mutfak tadilatı; görseller temsilîdir.",
+    "en": "Bathroom and kitchen renovation; images are representative.",
+    "ar": "تجديد الحمام والمطبخ؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "banyo tadilat, küvet montaj",
+    "en": "bathroom renovation, bathtub installation",
+    "ar": "تجديد حمام، تركيب حوض استحمام"
+  },
+  "category": "Kurumsal",
+  "name": "Krom Banyo",
+  "domain": "banyo.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "dm-serif-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#5C7A8A",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "5px",
+    "--mx-radius-md": "8px",
+    "--mx-radius-lg": "11px",
+    "--mx-radius-xl": "15px"
+  },
+  "icon": "icon.png"
+}
