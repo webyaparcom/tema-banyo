@@ -27,9 +27,9 @@
   "index": 2,
   "url": "",
   "text": {
-    "tr": "<h2>Kalite Politikamız</h2>\n<p>Sızdırmazlık testi ve malzeme listesi; teslim raporla.</p>",
-    "en": "<h2>Our quality policy</h2>\n<p>Watertightness test and material list; handover with a report.</p>",
-    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>اختبار impermeability وقائمة مواد؛ التسليم بتقرير.</p>"
+    "tr": "<h2>Kalite Politikamız</h2>\n<p>Her işte yazılı teklif, sızdırmazlık kontrolü ve temiz teslim esastır.</p>",
+    "en": "<h2>Our quality policy</h2>\n<p>A written quote, a watertightness check and a clean handover come with every job.</p>",
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>عرض سعر مكتوب وفحص منع التسرب وتسليم نظيف في كل عمل.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
@@ -37,7 +37,7 @@
     "ar": "سياسة الجودة"
   },
   "date": "2026-11-05T18:57:18.980Z",
-  "update": "2026-11-05T23:44:28.471Z",
+  "update": "2026-11-12T07:35:12.551Z",
   "sablonIzi": "acedf6b7c400faec",
   "sablonIziDil": {
     "en": "587042c99dce90ca",

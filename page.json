@@ -8,9 +8,9 @@
         "ar": "خدماتنا"
       },
       "description": {
-        "tr": "Keşiften montaja tek ekibi.",
+        "tr": "Keşiften montaja tek ekip.",
         "en": "One crew from survey to installation.",
-        "ar": "طاقم واحد من الاستقصاء إلى التركيب."
+        "ar": "فريق واحد من المعاينة إلى التركيب."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -51,7 +51,7 @@
       "description": {
         "tr": "Banyo ve mutfak tadilatı.",
         "en": "Bathroom and kitchen renovation.",
-        "ar": "تجديد الحمام والمطبخ."
+        "ar": "تجديد الحمامات والمطابخ."
       }
     },
     {

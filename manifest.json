@@ -1,7 +1,7 @@
 {
   "name": "Krom Banyo",
   "short_name": "Krom Banyo",
-  "description": "Banyo ve mutfak tadilatı; görseller temsilîdir.",
+  "description": "Banyo ve mutfak tadilatı: keşif, tesisat, seramik ve montaj tek ekipten. Görseller temsilîdir.",
   "start_url": "/tr/",
   "scope": "/",
   "display": "standalone",

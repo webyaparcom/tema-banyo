@@ -776,7 +776,12 @@
         "social_media": false,
         "logo_maxh": "60px",
         "logo_plate": false,
-        "contact_line": "auto"
+        "contact_line": "auto",
+        "logoDark": "",
+        "duzen": "",
+        "slogan": "",
+        "ikinciSutun": "",
+        "iletisimNot": ""
       },
       "version": "1.0.0",
       "icon": "widgets",
@@ -1488,9 +1493,9 @@
         "accentText": "var(--mx-site-primary-contrast, #ffffff)",
         "border": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
         "cta": {
-          "tr": "Teklif al",
-          "en": "Get a quote",
-          "ar": "اطلب عرض سعر"
+          "tr": "Keşif iste",
+          "en": "Request a survey",
+          "ar": "اطلب معاينة"
         },
         "cta_url": "teklif-al"
       },
@@ -1532,7 +1537,7 @@
         "hiza": "orta",
         "yukseklik": 82,
         "max": "1200px",
-        "img": "emlak-hero-bina.webp",
+        "img": "emlak-ilan-banyo.webp",
         "video": "",
         "poster": "",
         "alt": "Krom Banyo",
@@ -1550,23 +1555,23 @@
         "title": {
           "tr": "Banyonuz, ölçüsünde yeniden",
           "en": "Your bathroom, rebuilt to measure",
-          "ar": "حمّامك يُعاد بناؤه على قياسه"
+          "ar": "حمّامك من جديد وعلى مقاسه"
         },
         "metin": {
-          "tr": "Krom Banyo, tadilat ve montajı tek elden yürütür. Görseller temsilidir; metin ve kişiler kurgusaldır.",
-          "en": "Krom bathroom handles renovation and installation in one hand. Images are representative and the text and people are fictional.",
-          "ar": "تدير كروم حمامات التجديد والتركيب بيد واحدة. الصور تمثيلية والنصوص والشخصيات افتراضية."
+          "tr": "Krom Banyo; keşif, tesisat, kaplama ve montajı tek ekiple yürütür. Görseller temsilîdir; metin ve kişiler kurgusaldır.",
+          "en": "Krom Banyo handles the survey, plumbing, tiling and installation with a single crew. Images are representative; text and people are fictional.",
+          "ar": "تتولى كروم للحمامات المعاينة والسباكة والتبليط والتركيب بفريق واحد. الصور تمثيلية والنصوص والأشخاص افتراضيون."
         },
         "cta1": {
-          "tr": "Örnekleri gör",
-          "en": "View examples",
-          "ar": "استعرض الأمثلة"
+          "tr": "Hizmetlerimiz",
+          "en": "Our services",
+          "ar": "خدماتنا"
         },
         "cta1_url": "hizmetler",
         "cta2": {
           "tr": "Keşif iste",
           "en": "Request a survey",
-          "ar": "اطلب استقصاءً"
+          "ar": "اطلب معاينة"
         },
         "cta2_url": "teklif-al",
         "scroll_label": {
@@ -1611,9 +1616,9 @@
         "radius": "16px",
         "sure": 1000,
         "title": {
-          "tr": "Ne yapıyoruz?",
-          "en": "What do we do?",
-          "ar": "ماذا نفعل?"
+          "tr": "Rakamlarla Krom Banyo",
+          "en": "Krom Banyo in numbers",
+          "ar": "كروم للحمامات بالأرقام"
         },
         "description": {
           "tr": "Kurgusal demo verileri.",
@@ -1642,14 +1647,14 @@
           "sonek": "",
           "ikon": "group",
           "etiket": {
-            "tr": "Usta eliyi",
-            "en": "Skill hands",
-            "ar": "أيدي مهنية"
+            "tr": "Usta",
+            "en": "Skilled workers",
+            "ar": "حرفيون"
           },
           "aciklama": {
-            "tr": "Sabit ekibi",
-            "en": "Fixed crew",
-            "ar": "طاقم ثابت"
+            "tr": "Sabit ekip",
+            "en": "Permanent crew",
+            "ar": "فريق ثابت"
           }
         },
         {
@@ -1672,14 +1677,14 @@
           "sonek": "%",
           "ikon": "verified",
           "etiket": {
-            "tr": "İlk teslim",
-            "en": "First handover",
-            "ar": "التسليم الأول"
+            "tr": "İlk teslimde onay",
+            "en": "Approved at first handover",
+            "ar": "موافقة عند التسليم الأول"
           },
           "aciklama": {
-            "tr": "Sızdırmazlık testiyle",
-            "en": "With watertightness test",
-            "ar": "بفحص impermeability"
+            "tr": "Sızdırmazlık kontrolüyle (kurgusal değer)",
+            "en": "With a watertightness check (fictional figure)",
+            "ar": "مع فحص منع التسرب (رقم افتراضي)"
           }
         }
       ],
@@ -1710,14 +1715,14 @@
           "ar": "خدماتنا"
         },
         "title": {
-          "tr": "Ne yapıyoruz?",
+          "tr": "Neler yapıyoruz?",
           "en": "What do we do?",
-          "ar": "ماذا نفعل?"
+          "ar": "ماذا نقدّم؟"
         },
         "description": {
-          "tr": "Keşiften montaja tek ekibi.",
+          "tr": "Keşiften montaja tek ekip.",
           "en": "One crew from survey to installation.",
-          "ar": "طاقم واحد من الاستقصاء إلى التركيب."
+          "ar": "فريق واحد من المعاينة إلى التركيب."
         }
       },
       "data": [
@@ -1726,12 +1731,12 @@
           "name": {
             "tr": "Banyo tadilatı",
             "en": "Bathroom renovation",
-            "ar": "تجديد الحمام"
+            "ar": "تجديد الحمامات"
           },
           "description": {
-            "tr": "Seramik, küvet ve tesisat.",
-            "en": "Tile, bathtub and plumbing.",
-            "ar": "بلاط وحوض استحمام وسباكة."
+            "tr": "Söküm, seramik, küvet ve duş montajı.",
+            "en": "Demolition, tiling, bathtub and shower installation.",
+            "ar": "الهدم والبلاط وتركيب حوض الاستحمام والدش."
           }
         },
         {
@@ -1739,12 +1744,25 @@
           "name": {
             "tr": "Mutfak dolapları",
             "en": "Kitchen cabinets",
-            "ar": "أدراج المطبخ"
+            "ar": "خزائن المطبخ"
           },
           "description": {
-            "tr": "Ölçülü mutfak dolap montajı.",
-            "en": "Measured kitchen cabinet installation.",
-            "ar": "تركيب أدراج المطبخ المقاسة."
+            "tr": "Ölçüye göre mutfak dolabı ve tezgâh montajı.",
+            "en": "Made-to-measure kitchen cabinets and countertop installation.",
+            "ar": "تركيب خزائن المطبخ والأسطح حسب القياس."
+          }
+        },
+        {
+          "icon": "grid_view",
+          "name": {
+            "tr": "Zemin ve duvar kaplaması",
+            "en": "Floor and wall finishes",
+            "ar": "تكسية الأرضيات والجدران"
+          },
+          "description": {
+            "tr": "Seramik, fayans ve laminat uygulaması.",
+            "en": "Ceramic, tile and laminate flooring work.",
+            "ar": "تركيب السيراميك والبلاط والأرضيات الخشبية."
           }
         },
         {
@@ -1755,9 +1773,9 @@
             "ar": "السباكة"
           },
           "description": {
-            "tr": "Su ve atık hattı montajı.",
-            "en": "Water and waste line installation.",
-            "ar": "تركيب خط المياه والصرف."
+            "tr": "Su ve atık su hattı yenileme.",
+            "en": "Water and drainage line renewal.",
+            "ar": "تجديد خطوط المياه والصرف."
           }
         },
         {
@@ -1768,35 +1786,22 @@
             "ar": "الإضاءة"
           },
           "description": {
-            "tr": "Banyo ve mutfak aydınlatma.",
-            "en": "Bathroom and kitchen lighting.",
-            "ar": "إضاءة الحمام والمطبخ."
+            "tr": "Banyo ve mutfak için spot ve ayna aydınlatması.",
+            "en": "Spot and mirror lighting for bathrooms and kitchens.",
+            "ar": "إضاءة موضعية وإضاءة المرايا للحمامات والمطابخ."
           }
         },
         {
           "icon": "straighten",
           "name": {
-            "tr": "Ölçü ve keşif",
-            "en": "Measure and survey",
-            "ar": "قياس واستقصاء"
+            "tr": "Keşif ve ölçü",
+            "en": "Survey and measuring",
+            "ar": "المعاينة والقياس"
           },
           "description": {
-            "tr": "Yerinde ölçü ve keşif.",
-            "en": "On-site measure and survey.",
-            "ar": "قياس واستقصاء في الموقع."
-          }
-        },
-        {
-          "icon": "cleaning_services",
-          "name": {
-            "tr": "Montaj sonrası temizlik",
-            "en": "Post-installation cleaning",
-            "ar": "تنظيف بعد التركيب"
-          },
-          "description": {
-            "tr": "Teslim öncesi temizlik.",
-            "en": "Cleaning before handover.",
-            "ar": "تنظيف قبل التسليم."
+            "tr": "Yerinde keşif, ölçü ve yazılı teklif.",
+            "en": "On-site survey, measurements and a written quote.",
+            "ar": "معاينة في الموقع وقياسات وعرض سعر مكتوب."
           }
         }
       ],
@@ -1824,19 +1829,19 @@
         "accent": "var(--mx-site-primary, #2563eb)",
         "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
         "badge": {
-          "tr": "Nasıl çalışırız?",
+          "tr": "Çalışma düzeni",
           "en": "How we work",
-          "ar": "كيف نعمل؟"
+          "ar": "طريقة العمل"
         },
         "title": {
-          "tr": "Dört adımda süreç",
-          "en": "Process in four steps",
-          "ar": "العملية في أربع خطوات"
+          "tr": "Keşiften teslime dört adım",
+          "en": "Four steps from survey to handover",
+          "ar": "أربع خطوات من المعاينة إلى التسليم"
         },
         "description": {
-          "tr": "İlk görüşmeden teslimata aynı akış.",
-          "en": "The same flow, from first meeting to handover.",
-          "ar": "نفس التيار من أول لقاء إلى التسليم."
+          "tr": "Her aşamada yazılı bilgi verilir.",
+          "en": "Written information is provided at every stage.",
+          "ar": "تُقدَّم المعلومات كتابةً في كل مرحلة."
         },
         "accentText": "#ffffff",
         "cardbg": "var(--mx-site-surface, #ffffff)",
@@ -1848,51 +1853,51 @@
           "title": {
             "tr": "Keşif",
             "en": "Survey",
-            "ar": "الاستقصاء"
+            "ar": "المعاينة"
           },
           "text": {
-            "tr": "Ölçü alınır; fotoğraf kaydedilir.",
-            "en": "The measure is taken; a photo is recorded.",
-            "ar": "يُؤخذ القياس وتُسجَّل صورة."
+            "tr": "Yerinde ölçü alınır, ihtiyaçlar konuşulur.",
+            "en": "We measure on site and discuss your needs.",
+            "ar": "نقيس في الموقع ونناقش احتياجاتك."
           }
         },
         {
           "year": "02",
           "title": {
-            "tr": "Teklif",
-            "en": "Quote",
-            "ar": "عرض السعر"
+            "tr": "Teklif ve plan",
+            "en": "Quote and plan",
+            "ar": "العرض والخطة"
           },
           "text": {
-            "tr": "Metruk liste ile teklif.",
-            "en": "Quote with a material list.",
-            "ar": "عرض سعر مع قائمة مواد."
+            "tr": "Yazılı teklif ve iş takvimi hazırlanır.",
+            "en": "A written quote and a work schedule are prepared.",
+            "ar": "يُعدّ عرض سعر مكتوب وجدول زمني للعمل."
           }
         },
         {
           "year": "03",
           "title": {
-            "tr": "Montaj",
-            "en": "Installation",
-            "ar": "التركيب"
+            "tr": "Uygulama",
+            "en": "Works",
+            "ar": "التنفيذ"
           },
           "text": {
-            "tr": "Sıva, seramik ve armatür.",
-            "en": "Plastering, tile and fittings.",
-            "ar": "اللياسة والبلاط والأطقم."
+            "tr": "Söküm, tesisat, kaplama ve montaj yapılır.",
+            "en": "Demolition, plumbing, tiling and installation are carried out.",
+            "ar": "تُنفَّذ أعمال الهدم والسباكة والتكسية والتركيب."
           }
         },
         {
           "year": "04",
           "title": {
-            "tr": "Teslim",
-            "en": "Handover",
-            "ar": "التسليم"
+            "tr": "Temizlik ve teslim",
+            "en": "Cleaning and handover",
+            "ar": "التنظيف والتسليم"
           },
           "text": {
-            "tr": "Su sızdırmazlık test ve temizlik.",
-            "en": "Watertightness test and cleaning.",
-            "ar": "اختبار impermeability والتنظيف."
+            "tr": "Sızdırmazlık kontrolü ve temizlikle teslim edilir.",
+            "en": "Handed over after a watertightness check and cleaning.",
+            "ar": "يُسلَّم العمل بعد فحص منع التسرب والتنظيف."
           }
         }
       ],
@@ -1921,19 +1926,19 @@
         "textcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
         "accent": "var(--mx-site-primary, #2563eb)",
         "badge": {
-          "tr": "Ekibimiz",
-          "en": "Our team",
-          "ar": "فريقنا"
+          "tr": "Ustalarımız",
+          "en": "Our craftsmen",
+          "ar": "حرفيونا"
         },
         "title": {
-          "tr": "Sizi karşılayan ekip",
-          "en": "The team that welcomes you",
-          "ar": "الفريق الذي يستقبلك"
+          "tr": "İşi yapan ekip",
+          "en": "The crew that does the work",
+          "ar": "الفريق الذي ينفّذ العمل"
         },
         "description": {
-          "tr": "Kurgusal demo profiller.",
-          "en": "Fictional demo profiles.",
-          "ar": "ملفات تجريبية افتراضية."
+          "tr": "Kurgusal örnek kadro.",
+          "en": "A fictional sample team.",
+          "ar": "فريق افتراضي للعرض."
         },
         "accentText": "#ffffff",
         "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
@@ -1944,12 +1949,12 @@
           "role": {
             "tr": "Baş usta",
             "en": "Master craftsman",
-            "ar": "الحرفي الأكبر"
+            "ar": "كبير الحرفيين"
           },
           "bio": {
-            "tr": "25 yıl banyo-mutfak.",
-            "en": "25 years of bathroom-kitchen.",
-            "ar": "٢٥ عامًا في الحمام والمطبخ."
+            "tr": "25 yıllık banyo ve mutfak tecrübesi.",
+            "en": "25 years of bathroom and kitchen experience.",
+            "ar": "٢٥ عامًا من الخبرة في الحمامات والمطابخ."
           },
           "img": ""
         },
@@ -1958,25 +1963,25 @@
           "role": {
             "tr": "Tesisatçı",
             "en": "Plumber",
-            "ar": "سباك"
+            "ar": "سبّاك"
           },
           "bio": {
-            "tr": "Su ve atık hattı.",
-            "en": "Water and waste line.",
-            "ar": "خط المياه والصرف."
+            "tr": "Su ve atık su hattı.",
+            "en": "Water and drainage lines.",
+            "ar": "خطوط المياه والصرف."
           },
           "img": ""
         },
         {
           "name": "Yusuf Demir",
           "role": {
-            "tr": "Seramikçi",
+            "tr": "Seramik ustası",
             "en": "Tiler",
-            "ar": "بلّاطي"
+            "ar": "بلّاط"
           },
           "bio": {
             "tr": "Seramik ve sıva.",
-            "en": "Tile and plastering.",
+            "en": "Tiling and plastering.",
             "ar": "البلاط واللياسة."
           },
           "img": ""
@@ -2018,9 +2023,9 @@
           "ar": "ماذا يقول عملاؤنا؟"
         },
         "description": {
-          "tr": "Kurgusal demo yorumlar.",
-          "en": "Fictional demo reviews.",
-          "ar": "تقييمات تجريبية افتراضية."
+          "tr": "Kurgusal örnek yorumlar.",
+          "en": "Fictional sample reviews.",
+          "ar": "آراء افتراضية للعرض."
         },
         "accentText": "#ffffff",
         "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
@@ -2030,45 +2035,45 @@
           "name": "Gül A.",
           "role": {
             "tr": "Ev sahibi",
-            "en": "Home owner",
+            "en": "Homeowner",
             "ar": "صاحبة منزل"
           },
           "rating": 5,
           "img": "",
           "text": {
-            "tr": "Banyo 2 haftada hazır; sızdırmazlık testi geçti.",
-            "en": "Bathroom ready in 2 weeks; watertightness test passed.",
-            "ar": "الحمام جاهز في أسبوعين؛ نجح فحص impermeability."
+            "tr": "Banyo iki haftada hazırdı; sızdırmazlık kontrolü sorunsuz geçti.",
+            "en": "The bathroom was ready in two weeks and the watertightness check passed without issues.",
+            "ar": "كان الحمام جاهزًا خلال أسبوعين واجتاز فحص منع التسرب دون مشاكل."
           }
         },
         {
           "name": "Ali Ş.",
           "role": {
             "tr": "Ev sahibi",
-            "en": "Home owner",
+            "en": "Homeowner",
             "ar": "صاحب منزل"
           },
           "rating": 5,
           "img": "",
           "text": {
-            "tr": "Dolaplar ölçüye uydu; iş tertipli.",
-            "en": "Cabinets fit the measure; the work is neat.",
-            "ar": "الأدراج على المقاس؛ العمل منظم."
+            "tr": "Dolaplar ölçüye tam oturdu; iş düzenliydi.",
+            "en": "The cabinets fit the measurements exactly and the work was tidy.",
+            "ar": "ناسبت الخزائن القياسات تمامًا وكان العمل منظمًا."
           }
         },
         {
           "name": "Hilal B.",
           "role": {
-            "tr": "Kiracı",
-            "en": "Tenant",
-            "ar": "مستأجرة"
+            "tr": "Daire sahibi",
+            "en": "Apartment owner",
+            "ar": "مالكة شقة"
           },
           "rating": 4,
           "img": "",
           "text": {
-            "tr": "Montaj sonrası temizlik dâhil tuttu.",
-            "en": "Post-installation cleaning was included.",
-            "ar": "شمل التنظيف بعد التركيب."
+            "tr": "Montaj sonrası temizlik de dahildi.",
+            "en": "Cleaning after installation was included.",
+            "ar": "كان التنظيف بعد التركيب مشمولًا."
           }
         }
       ],
@@ -2113,19 +2118,19 @@
         "radius": "8px",
         "numara": true,
         "eyebrow": {
-          "tr": "Neyi iyi yaparız?",
-          "en": "What we do well",
-          "ar": "ما نتقنه؟"
+          "tr": "Uygulamalarımız",
+          "en": "Our work",
+          "ar": "أعمالنا"
         },
         "title": {
           "tr": "Ne yapıyoruz?",
           "en": "What do we do?",
-          "ar": "ماذا نفعل?"
+          "ar": "ماذا نفعل؟"
         },
         "description": {
-          "tr": "Görseller temsilidir; bu bir kurulum demosıdır.",
-          "en": "Images are representative; this is a setup demo.",
-          "ar": "الصور تمثيلية وهذا عرض تجريبي."
+          "tr": "Görseller temsilîdir; metin ve rakamlar kurgusaldır.",
+          "en": "Images are representative; text and figures are fictional.",
+          "ar": "الصور تمثيلية والنصوص والأرقام افتراضية."
         },
         "ctaLabel": {
           "tr": "Ayrıntı",
@@ -2138,12 +2143,12 @@
           "baslik": {
             "tr": "Banyo tadilatı",
             "en": "Bathroom renovation",
-            "ar": "تجديد الحمام"
+            "ar": "تجديد الحمامات"
           },
           "metin": {
-            "tr": "Seramik, küvet ve tesisat.",
-            "en": "Tile, bathtub and plumbing.",
-            "ar": "بلاط وحوض استحمام وسباكة."
+            "tr": "Söküm, seramik, küvet ve duş montajı.",
+            "en": "Demolition, tiling, bathtub and shower installation.",
+            "ar": "الهدم والبلاط وتركيب حوض الاستحمام والدش."
           },
           "img": "emlak-ilan-banyo.webp",
           "alt": {
@@ -2157,12 +2162,12 @@
           "baslik": {
             "tr": "Mutfak dolapları",
             "en": "Kitchen cabinets",
-            "ar": "أدراج المطبخ"
+            "ar": "خزائن المطبخ"
           },
           "metin": {
-            "tr": "Ölçülü mutfak dolap montajı.",
-            "en": "Measured kitchen cabinet installation.",
-            "ar": "تركيب أدراج المطبخ المقاسة."
+            "tr": "Ölçüye göre mutfak dolabı ve tezgâh montajı.",
+            "en": "Made-to-measure kitchen cabinets and countertop installation.",
+            "ar": "تركيب خزائن المطبخ والأسطح حسب القياس."
           },
           "img": "emlak-ilan-mutfak.webp",
           "alt": {
@@ -2174,16 +2179,16 @@
         },
         {
           "baslik": {
-            "tr": "Tesisat",
-            "en": "Plumbing",
-            "ar": "السباكة"
+            "tr": "Zemin ve duvar kaplaması",
+            "en": "Floor and wall finishes",
+            "ar": "تكسية الأرضيات والجدران"
           },
           "metin": {
-            "tr": "Su ve atık hattı montajı.",
-            "en": "Water and waste line installation.",
-            "ar": "تركيب خط المياه والصرف."
+            "tr": "Seramik, fayans ve laminat uygulaması.",
+            "en": "Ceramic, tile and laminate flooring work.",
+            "ar": "تركيب السيراميك والبلاط والأرضيات الخشبية."
           },
-          "img": "emlak-ilan-yatak.webp",
+          "img": "emlak-ilan-salon.webp",
           "alt": {
             "tr": "Temsilî görsel",
             "en": "Representative image",
@@ -2239,14 +2244,14 @@
         "radius": "8px",
         "showTitle": true,
         "title": {
-          "tr": "Birlikte çalıştığımız kuruluşlar",
-          "en": "Organisations we work with",
-          "ar": "جهات نعمل معها"
+          "tr": "Çalıştığımız markalar",
+          "en": "Brands we work with",
+          "ar": "العلامات التي نعمل معها"
         },
         "description": {
-          "tr": "Kurgusal iş ortağı adları; gerçek bir kuruluşa ait değildir.",
-          "en": "Fictional partner names; they do not belong to a real organisation.",
-          "ar": "أسماء شركاء افتراضية لا تعود إلى جهة حقيقية."
+          "tr": "Kurgusal tedarikçi adları; gerçek bir kuruluşa ait değildir.",
+          "en": "Fictional supplier names; they do not belong to a real organisation.",
+          "ar": "أسماء موردين افتراضية لا تعود إلى جهة حقيقية."
         },
         "listLabel": {
           "tr": "Referans logoları",
@@ -2259,7 +2264,7 @@
           "name": "Demo Seramik"
         },
         {
-          "name": "Demo Armatur"
+          "name": "Demo Armatür"
         },
         {
           "name": "Demo Boya"
@@ -2314,51 +2319,91 @@
       },
       "data": [
         {
+          "question": {
+            "tr": "Keşif ücretli mi?",
+            "en": "Is the survey charged?",
+            "ar": "هل المعاينة مدفوعة؟"
+          },
+          "answer": {
+            "tr": "Keşif ve yazılı teklif ücretsizdir (kurgusal bilgi).",
+            "en": "The survey and written quote are free (fictional information).",
+            "ar": "المعاينة وعرض السعر المكتوب مجانيان (معلومات افتراضية)."
+          },
+          "soru": {
+            "tr": "Keşif ücretli mi?",
+            "en": "Is the survey charged?",
+            "ar": "هل المعاينة مدفوعة؟"
+          },
+          "cevap": {
+            "tr": "Keşif ve yazılı teklif ücretsizdir (kurgusal bilgi).",
+            "en": "The survey and written quote are free (fictional information).",
+            "ar": "المعاينة وعرض السعر المكتوب مجانيان (معلومات افتراضية)."
+          }
+        },
+        {
+          "question": {
+            "tr": "Tadilat ne kadar sürer?",
+            "en": "How long does a renovation take?",
+            "ar": "كم تستغرق أعمال التجديد؟"
+          },
+          "answer": {
+            "tr": "Banyo için genellikle 2–3 hafta; kapsama göre değişir (kurgusal bilgi).",
+            "en": "Usually 2–3 weeks for a bathroom, depending on scope (fictional information).",
+            "ar": "عادةً من أسبوعين إلى ثلاثة للحمام، وتختلف حسب النطاق (معلومات افتراضية)."
+          },
           "soru": {
             "tr": "Tadilat ne kadar sürer?",
-            "en": "How long does the renovation take?",
-            "ar": "كم يستغرق التجديد?"
+            "en": "How long does a renovation take?",
+            "ar": "كم تستغرق أعمال التجديد؟"
           },
           "cevap": {
-            "tr": "Banyo için tahmini 10–15 iş gün (demo bilgi).",
-            "en": "Estimated 10–15 business days for a bathroom (demo info).",
-            "ar": "يُقدَّر 10–15 يوم عمل للحمام (معلومات تجريبية."
+            "tr": "Banyo için genellikle 2–3 hafta; kapsama göre değişir (kurgusal bilgi).",
+            "en": "Usually 2–3 weeks for a bathroom, depending on scope (fictional information).",
+            "ar": "عادةً من أسبوعين إلى ثلاثة للحمام، وتختلف حسب النطاق (معلومات افتراضية)."
           }
         },
         {
+          "question": {
+            "tr": "Malzemeyi siz mi getiriyorsunuz?",
+            "en": "Do you supply the materials?",
+            "ar": "هل توفّرون المواد؟"
+          },
+          "answer": {
+            "tr": "İsteğe göre; malzemeyi siz seçebilir ya da ekibimizden öneri alabilirsiniz.",
+            "en": "As you prefer; you can choose the materials yourself or take recommendations from our team.",
+            "ar": "حسب رغبتك؛ يمكنك اختيار المواد بنفسك أو أخذ توصيات من فريقنا."
+          },
           "soru": {
-            "tr": "Fiyatlar nasıl belirlenir?",
-            "en": "How are prices determined?",
-            "ar": "كيف تُحدَّد الأسعار?"
+            "tr": "Malzemeyi siz mi getiriyorsunuz?",
+            "en": "Do you supply the materials?",
+            "ar": "هل توفّرون المواد؟"
           },
           "cevap": {
-            "tr": "İhtiyacınıza göre teklifle belirlenir; genel bir fiyat aralığı demo metninde yer almaz.",
-            "en": "A quote based on your needs sets the price; a general range is not shown in this demo text.",
-            "ar": "يُحدَّد السعر عبر عرض سعر حسب احتياجاتك؛ ولا يُذكر نطاق عام في هذا النص التجريبي."
+            "tr": "İsteğe göre; malzemeyi siz seçebilir ya da ekibimizden öneri alabilirsiniz.",
+            "en": "As you prefer; you can choose the materials yourself or take recommendations from our team.",
+            "ar": "حسب رغبتك؛ يمكنك اختيار المواد بنفسك أو أخذ توصيات من فريقنا."
           }
         },
         {
+          "question": {
+            "tr": "Sitedeki görseller ve bilgiler gerçek mi?",
+            "en": "Are the images and information on the site real?",
+            "ar": "هل الصور والمعلومات في الموقع حقيقية؟"
+          },
+          "answer": {
+            "tr": "Hayır; görseller temsilî, ad, rakam ve kişiler kurgusaldır.",
+            "en": "No; images are representative and names, figures and people are fictional.",
+            "ar": "لا؛ الصور تمثيلية والأسماء والأرقام والأشخاص افتراضيون."
+          },
           "soru": {
-            "tr": "Malzeme firmayla mı alınır?",
-            "en": "Are materials bought with the firm?",
-            "ar": "هل تُشترى المواد مع الشركة?"
+            "tr": "Sitedeki görseller ve bilgiler gerçek mi?",
+            "en": "Are the images and information on the site real?",
+            "ar": "هل الصور والمعلومات في الموقع حقيقية؟"
           },
           "cevap": {
-            "tr": "Dilersek malzeme listesi sağlanıyor; seçim müşteriye.",
-            "en": "If you wish, a material list is provided; the choice is the customer’s.",
-            "ar": "إذا رغبت تتوفر قائمة مواد؛ الاختيار للعميل."
-          }
-        },
-        {
-          "soru": {
-            "tr": "Sitedeki görseller ve veriler gerçek midir?",
-            "en": "Are the images and data on the site real?",
-            "ar": "هل الصور والبيانات في الموقع حقيقية?"
-          },
-          "cevap": {
-            "tr": "Hayır; bu bir kuruluma örneğidir. Görseller temsilî, adlar, rakamlar ve kişiler kurgusaldır.",
-            "en": "No; this is a setup example. Images are representative and names, figures and people are fictional.",
-            "ar": "لا؛ هذا مثال تركيب. الصور تمثيلية والأسماء والأرقام والشخصيات افتراضية."
+            "tr": "Hayır; görseller temsilî, ad, rakam ve kişiler kurgusaldır.",
+            "en": "No; images are representative and names, figures and people are fictional.",
+            "ar": "لا؛ الصور تمثيلية والأسماء والأرقام والأشخاص افتراضيون."
           }
         }
       ],
@@ -2416,14 +2461,14 @@
         "errcolor": "var(--mx-color-danger, #b42318)",
         "radius": "8px",
         "title": {
-          "tr": "Teklif isteyin",
-          "en": "Request a quote",
-          "ar": "اطلب عرض سعر"
+          "tr": "Keşif talep edin",
+          "en": "Request a survey",
+          "ar": "اطلب معاينة"
         },
         "description": {
-          "tr": "Bilgilerinizi bırakın; en geç iki iş günü içinde dönüş yaparız. Bu form demodur; e-posta istemciniz açılır, veri saklanmaz.",
-          "en": "Leave your details; we reply within two business days. This form is a demo; it opens your e-mail client and stores no data.",
-          "ar": "اترك بياناتك وسنرد خلال يومي عمل. هذا النموذج تجريبي؛ يفتح برنامج البريد لديك ولا يحفظ أي بيانات."
+          "tr": "Adresinizi ve ne yaptırmak istediğinizi yazın; iki iş günü içinde dönüş yaparız. Bu form demodur; e-posta istemciniz açılır, veri saklanmaz.",
+          "en": "Tell us where you are and what you want done; we reply within two business days. This form is a demo; it opens your e-mail client and stores no data.",
+          "ar": "اكتب عنوانك وما تريد تنفيذه ونردّ خلال يومي عمل. هذا النموذج تجريبي؛ يفتح برنامج البريد لديك ولا تُحفظ أي بيانات."
         },
         "panelTitle": {
           "tr": "Krom Banyo",
@@ -2431,13 +2476,13 @@
           "ar": "Krom Banyo"
         },
         "panelText": {
-          "tr": "Görseller temsilidir; bu bir kurulum demosıdır.",
-          "en": "Images are representative; this is a setup demo.",
-          "ar": "الصور تمثيلية وهذا عرض تجريبي."
+          "tr": "Görseller temsilîdir; metin ve rakamlar kurgusaldır.",
+          "en": "Images are representative; text and figures are fictional.",
+          "ar": "الصور تمثيلية والنصوص والأرقام افتراضية."
         },
         "address": {
           "tr": "Marangozlar Sokağı No: 18, Şehitkamil, Gaziantep (kurgusal adres)",
-          "en": "18 Marangozlari Sogagi, Sehitkamil, Gaziantep (fictional address)",
+          "en": "18 Marangozlar Street, Sehitkamil, Gaziantep (fictional address)",
           "ar": "شارع النجارين رقم 18، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
         },
         "phone": "+90 342 025 05 05",
@@ -2520,25 +2565,25 @@
           {
             "id": "a",
             "name": {
-              "tr": "Yeni talep",
-              "en": "New request",
-              "ar": "طلب جديد"
+              "tr": "Keşif talebi",
+              "en": "Survey request",
+              "ar": "طلب معاينة"
             }
           },
           {
             "id": "b",
             "name": {
-              "tr": "Ölçü ve keşif",
-              "en": "Measure and survey",
-              "ar": "قياس واستقصاء"
+              "tr": "Banyo tadilatı",
+              "en": "Bathroom renovation",
+              "ar": "تجديد حمام"
             }
           },
           {
             "id": "c",
             "name": {
-              "tr": "Teknik soru",
-              "en": "Technical question",
-              "ar": "سؤال فني"
+              "tr": "Mutfak dolabı",
+              "en": "Kitchen cabinets",
+              "ar": "خزائن مطبخ"
             }
           },
           {
@@ -2625,7 +2670,8 @@
           "tr": "Merhaba, web sitenizden yazıyorum.",
           "en": "Hello, I am writing from your website.",
           "ar": "مرحبًا، أكتب إليكم من موقعكم الإلكتروني."
-        }
+        },
+        "formAction": ""
       },
       "data": [],
       "veri": {
@@ -2649,32 +2695,32 @@
           "ar": "Krom Banyo"
         },
         "description": {
-          "tr": "Krom Banyo 2015ten beri banyo ve mutfak tadilatı yapar. Bu bir demo sayfasıdır; proje sayı ve fiyatlar kurgusaldır.",
-          "en": "Krom bathroom has done bathroom and kitchen renovations since 2015. This is a demo page and the project counts and prices are fictional.",
-          "ar": "يدير كروم حمامات تجديد الحمام والمطبخ منذ عام 2015. هذه صفحة تجريبية وعدادات المشاريع والأسعار افتراضية."
+          "tr": "Krom Banyo, 2014’ten beri banyo ve mutfak tadilatını keşiften montaja tek ekiple yürütür. Bu sayfa demodur; ad ve rakamlar kurgusaldır.",
+          "en": "Krom Banyo has handled bathroom and kitchen renovations from survey to installation with a single crew since 2014. This page is a demo; names and figures are fictional.",
+          "ar": "تتولى كروم للحمامات منذ عام 2014 تجديد الحمامات والمطابخ من المعاينة إلى التركيب بفريق واحد. هذه الصفحة تجريبية والأسماء والأرقام افتراضية."
         },
         "name2": {
-          "tr": "Tek ekibi",
+          "tr": "Tek ekip",
           "en": "One crew",
-          "ar": "طاقم واحد"
+          "ar": "فريق واحد"
         },
         "spot2": {
-          "tr": "Keşif, montaj ve teslim aynı ekibi yürür.",
-          "en": "Survey, installation and handover are run by the same crew.",
-          "ar": "يدير الطاقم نفسه الاستقصاء والتركيب والتسليم."
+          "tr": "Tesisat, kaplama ve montaj aynı ekibin işidir.",
+          "en": "Plumbing, tiling and installation are done by the same crew.",
+          "ar": "السباكة والتكسية والتركيب يتولاها الفريق نفسه."
         },
-        "icon2": "group",
+        "icon2": "groups",
         "name3": {
-          "tr": "Sızdırmazlık testi",
-          "en": "Watertightness test",
-          "ar": "اختبار impermeability"
+          "tr": "Yazılı teklif",
+          "en": "Written quote",
+          "ar": "عرض سعر مكتوب"
         },
         "spot3": {
-          "tr": "Her teslimde su testi yapılır ve raporlanır.",
-          "en": "Every handover runs a water test and reports it.",
-          "ar": "يُعرب اختبار الماء في كل تسليم ويُبلَّغ عنه."
+          "tr": "Kapsam, süre ve bedel işe başlamadan yazılı verilir.",
+          "en": "Scope, timing and price are given in writing before work starts.",
+          "ar": "يُقدَّم النطاق والمدة والسعر كتابةً قبل بدء العمل."
         },
-        "icon3": "schedule",
+        "icon3": "request_quote",
         "img": "emlak-ilan-balkon.webp",
         "bgcolor": "var(--mx-site-surface-2, #ececea)",
         "fontcolor": "var(--mx-site-text, #1b1b1b)",
@@ -2748,7 +2794,7 @@
         "email": "bilgi@krombanyo.example",
         "address": {
           "tr": "Marangozlar Sokağı No: 18, Şehitkamil, Gaziantep (kurgusal adres)",
-          "en": "18 Marangozlari Sogagi, Sehitkamil, Gaziantep (fictional address)",
+          "en": "18 Marangozlar Street, Sehitkamil, Gaziantep (fictional address)",
           "ar": "شارع النجارين رقم 18، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
         },
         "mapsUrl": "",
@@ -2763,9 +2809,9 @@
           "ar": "اتصل بنا"
         },
         "callText": {
-          "tr": "Hafta içi 09:00 – 18:00",
-          "en": "Weekdays 09:00 – 18:00",
-          "ar": "أيام الأسبوع 09:00 – 18:00"
+          "tr": "Pzt–Cum 09:00 – 18:00",
+          "en": "Mon–Fri 09:00 – 18:00",
+          "ar": "الاثنين–الجمعة 09:00 – 18:00"
         },
         "callBtn": {
           "tr": "Ara",
@@ -2857,9 +2903,9 @@
         "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
         "radius": "8px",
         "title": {
-          "tr": "Banyonuz için keşif",
-          "en": "Survey for your bathroom",
-          "ar": "استقصاء لحمّامك"
+          "tr": "Keşif randevusu alın",
+          "en": "Book a survey visit",
+          "ar": "احجز موعد معاينة"
         },
         "text": {
           "tr": "İki iş günü içinde dönüş yaparız. Bu demo sitede veri saklanmaz.",
@@ -2903,7 +2949,7 @@
         "waMessage": {
           "tr": "Merhaba, Krom Banyo ile iletişime geçmek istiyorum.",
           "en": "Hello, I would like to get in touch with Krom Banyo.",
-          "ar": "مرحبًا، أودّ التواصل مع Krom Banyo."
+          "ar": "مرحبًا، أودّ التواصل مع كروم للحمامات."
         },
         "img": "",
         "alt": {
@@ -2961,7 +3007,7 @@
         "about": {
           "tr": "Krom Banyo demo temadır; içerik kurgusaldır.",
           "en": "Krom Banyo is a demo theme; the content is fictional.",
-          "ar": "قالب عرض تجريبي (Krom Banyo)؛ المحتوى افتراضي."
+          "ar": "كروم للحمامات قالب تجريبي؛ المحتوى افتراضي."
         },
         "nlShow": true,
         "nlGonderim": "mailto",
@@ -3065,7 +3111,7 @@
         "hours": [],
         "address": {
           "tr": "Marangozlar Sokağı No: 18, Şehitkamil, Gaziantep (kurgusal adres)",
-          "en": "18 Marangozlari Sogagi, Sehitkamil, Gaziantep (fictional address)",
+          "en": "18 Marangozlar Street, Sehitkamil, Gaziantep (fictional address)",
           "ar": "شارع النجارين رقم 18، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
         },
         "phone": "+90 342 025 05 05",

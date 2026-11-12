@@ -27,9 +27,9 @@
   "index": 1,
   "url": "",
   "text": {
-    "tr": "<h2>Vizyonumuz</h2>\n<p>Bölgenin banyo tadilat adresi olmak (kurgusal hedef).</p>",
-    "en": "<h2>Our vision</h2>\n<p>To be the region’s bathroom renovation address (fictional target).</p>",
-    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون عنوان تجديد الحمامات في المنطقة (هدف افتراضي).</p>"
+    "tr": "<h2>Vizyonumuz</h2>\n<p>Bölgenin güvenilir tadilat adresi olmak (kurgusal hedef).</p>",
+    "en": "<h2>Our vision</h2>\n<p>To be the region’s trusted renovation address (fictional goal).</p>",
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون عنوان التجديد الموثوق في المنطقة (هدف افتراضي).</p>"
   },
   "title": {
     "tr": "Vizyon",
@@ -37,7 +37,7 @@
     "ar": "الرؤية"
   },
   "date": "2026-11-05T18:57:18.980Z",
-  "update": "2026-11-05T23:44:28.470Z",
+  "update": "2026-11-12T07:35:12.550Z",
   "sablonIzi": "c3ebee5f049bdfb4",
   "sablonIziDil": {
     "en": "67bb554c6c4d5984",
