@@ -2,14 +2,14 @@
   "order": false,
   "user": false,
   "description": {
-    "tr": "Banyo ve mutfak tadilatı; görseller temsilîdir.",
-    "en": "Bathroom and kitchen renovation; images are representative.",
-    "ar": "تجديد الحمام والمطبخ؛ الصور تمثيلية."
+    "tr": "Banyo ve mutfak tadilatı: keşif, tesisat, seramik ve montaj tek ekipten. Görseller temsilîdir.",
+    "en": "Bathroom and kitchen renovation: survey, plumbing, tiling and installation from one crew. Images are representative.",
+    "ar": "تجديد الحمامات والمطابخ: معاينة وسباكة وبلاط وتركيب من فريق واحد؛ الصور تمثيلية."
   },
   "keyword": {
-    "tr": "banyo tadilat, küvet montaj",
-    "en": "bathroom renovation, bathtub installation",
-    "ar": "تجديد حمام، تركيب حوض استحمام"
+    "tr": "banyo tadilatı, mutfak dolabı, tesisat, seramik, keşif",
+    "en": "bathroom renovation, kitchen cabinets, plumbing, tiling, survey",
+    "ar": "تجديد حمامات، خزائن مطبخ، سباكة، بلاط، معاينة"
   },
   "category": "Kurumsal",
   "name": "Krom Banyo",

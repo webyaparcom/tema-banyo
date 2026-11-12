@@ -27,9 +27,9 @@
   "index": 0,
   "url": "",
   "text": {
-    "tr": "<h2>Misyonumuz</h2>\n<p>Banyo ve mutfağı ölçüsünde, zamanında teslim etmek.</p>",
-    "en": "<h2>Our mission</h2>\n<p>To deliver the bathroom and kitchen to measure and on time.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>تسليم الحمام والمطبخ بالقياس وفي الوقت.</p>"
+    "tr": "<h2>Misyonumuz</h2>\n<p>Banyo ve mutfakları ölçüsünde, temiz ve zamanında teslim etmek.</p>",
+    "en": "<h2>Our mission</h2>\n<p>To deliver bathrooms and kitchens to size, clean and on time.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>تسليم الحمامات والمطابخ بالقياس المطلوب ونظيفة وفي موعدها.</p>"
   },
   "title": {
     "tr": "Misyon",
@@ -37,7 +37,7 @@
     "ar": "المهمة"
   },
   "date": "2026-11-05T18:57:18.980Z",
-  "update": "2026-11-05T23:44:28.470Z",
+  "update": "2026-11-12T07:35:12.549Z",
   "sablonIzi": "a8a6ac234dced5af",
   "sablonIziDil": {
     "en": "3f5f6c628dec679f",
