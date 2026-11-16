@@ -1,9 +1,9 @@
 {
-  "name": "Müşteri Yorumları 1",
+  "name": "Müşteri Yorumları 2 (Slider)",
   "desing": {
     "max": "1200px",
-    "bgcolor": "#f8fafc",
-    "cardbg": "#ffffff",
+    "bgcolor": "#ffffff",
+    "cardbg": "#f8fafc",
     "bordercolor": "#e2e8f0",
     "titlecolor": "#1e293b",
     "textcolor": "#475569",
@@ -14,12 +14,8 @@
       "en": "Testimonials"
     },
     "title": {
-      "tr": "Müşterilerimiz Ne Diyor?",
-      "en": "What Our Customers Say"
-    },
-    "description": {
-      "tr": "Birlikte çalıştığımız müşterilerimizin deneyimleri.",
-      "en": "Experiences from the customers we work with."
+      "tr": "Bizi Tercih Edenler",
+      "en": "Those Who Choose Us"
     },
     "accentText": "#ffffff"
   },
@@ -62,12 +58,25 @@
       },
       "rating": 4,
       "img": ""
+    },
+    {
+      "name": "Ad Soyad",
+      "role": {
+        "tr": "Operasyon Sorumlusu",
+        "en": "Operations Lead"
+      },
+      "text": {
+        "tr": "İhtiyaçlarımızı doğru analiz edip tam istediğimiz çözümü sundular.",
+        "en": "They analyzed our needs correctly and delivered exactly the solution we wanted."
+      },
+      "rating": 5,
+      "img": ""
     }
   ],
   "category": "testimonial",
-  "description": "Manuel müşteri yorumu kartları modülü. İsim, unvan, yıldız puanı ve yorum metnini responsive grid'de gösterir; fotoğraf yoksa baş harf avatarı kullanılır. Google'a bağımlı olmayan referans/yorum vitrini için kullanılır (otomatik çekim için google-yorumlar modülü).",
+  "description": "Swiper tabanlı müşteri yorumu slider'ı (testimonial-1'in grid düzenine alternatif). Otomatik oynatma, sayfalama noktaları ve responsive 1/2/3 slayt görünümü; yıldız puanı ve baş harf avatar fallback'i içerir.",
   "version": "1.0.0",
-  "icon": "format_quote",
+  "icon": "forum",
   "veri": {
     "statik": true,
     "dinamik": false,
